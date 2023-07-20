@@ -1,0 +1,3 @@
+development:
+  HTTP_BASIC_USER: 'admin'
+  HTTP_BASIC_PASSWORD: '12345678'
